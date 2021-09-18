@@ -11,7 +11,7 @@ Selanjutnya Luh yg nerusin males ngetik^_^
 ```
 
 
-``` Jika ada kesalahan sama minta maaf karena saya juga belajar ```
+## Jika ada kesalahan sama minta maaf karena saya juga belajar 
 
 
 
